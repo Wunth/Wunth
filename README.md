@@ -28,7 +28,7 @@ The boardgame I've designed... well... in the process. I'm creating the digital 
 * **What next?:** I'm slowly working my way through the ruleset and plugging in the different possible interactions following the rules of the play structure.
 
 
-## (My Board Game Collection)[https://github.com/Wunth/my-collection].
+## (My Board Game Collection)[https://github.com/Wunth/my-collection]
 
 So far, just a very plain record of my board games with simple functions to add a new game. I want to be able to view at a glance which games are getting played and which are getting no love, to help me manage my collection.
 * **My role**: Solo project built using a React.js template.
