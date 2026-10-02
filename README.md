@@ -11,7 +11,7 @@ In addition, I have previous experience developing full-stack web applications a
 
 # Projects
 
-## AFW (Another Effing Wordle)
+## [AFW](https://github.com/Wunth/Another-Effing-Wordle) (Another Effing Wordle)
 Wordle but... crass. A take on the popular word puzzle game that we decided to make because it sounded fun. It was interesting to dig into all the pieces that go into making something so simple work well.
 * **My Role:** As Product Owner I led a small team of 5 developers through a 10 day project. I set up the database structure and initial data seeds, set up authorization with Auth0 and user stats data storage, connecting up front end and back end functions.
 * **Tech:** React.js, TypeScript, Node.ls/Express, SQLite, Knex.js, Render
@@ -19,19 +19,21 @@ Wordle but... crass. A take on the popular word puzzle game that we decided to m
 
 * [Check it out on Render](https://afw-y0wy.onrender.com)
 
-## Board Game Collection
 
-So far, just a very plain record of my board games with simple functions to add a new game. I want to be able to view at a glance which games are getting played and which are getting no love, to help me manage my collection.
-* **My role**: Solo project built using a React.js template.
-* **Tech:**  React, TypeScript, Node.js/Express, SQLite, Knex.js
-* **What next?:** Make it pretty! Add authorization and only allow addition of new games when logged in. Add a simple counter to record games played and associated dates. Add game thumbnails.
-
-## Boardgame (codename: Dapple)
+## [Boardgame](https://github.com/Wunth/Boardgame) (codename: Dapple)
 
 The boardgame I've designed... well... in the process. I'm creating the digital implementation as a first prototype and to track updates to the design and rule changes. And eventually to assist publishing it.
 * **My role:** A solo project built on top of a basic React.js template.
 * **Tech:** React.js, TypeScript
 * **What next?:** I'm slowly working my way through the ruleset and plugging in the different possible interactions following the rules of the play structure.
+
+
+## (My Board Game Collection)[https://github.com/Wunth/my-collection].
+
+So far, just a very plain record of my board games with simple functions to add a new game. I want to be able to view at a glance which games are getting played and which are getting no love, to help me manage my collection.
+* **My role**: Solo project built using a React.js template.
+* **Tech:**  React, TypeScript, Node.js/Express, SQLite, Knex.js
+* **What next?:** Make it pretty! Add authorization and only allow addition of new games when logged in. Add a simple counter to record games played and associated dates. Add game thumbnails.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS.
